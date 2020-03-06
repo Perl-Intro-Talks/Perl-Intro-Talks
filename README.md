@@ -12,7 +12,7 @@ Another attempt to collect a set of slides suitable to be used in Intro Talks du
 
 ## Code of Conduct
 
-Until this team agrees to a more specific Code of Conduct, the [Debian Code of Conduct](https://www.debian.org/code_of_conduct) and the [Debian Mailing Lists Code of Conduct]https://www.debian.org/MailingLists/#codeofconduct. We assume you are able to transpile the mailing list specifica to git-based collaboration.
+Until this team agrees to a more specific Code of Conduct, the [Debian Code of Conduct](https://www.debian.org/code_of_conduct) and the [Debian Mailing Lists Code of Conduct](https://www.debian.org/MailingLists/#codeofconduct). We assume you are able to transpile the mailing list specifica to git-based collaboration.
 
 
 
